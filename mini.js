@@ -3,7 +3,7 @@
 		Data = d.getDate();
 		Day = d.getDay();
 
-		DataStop = new Date (2022, 05, 12);
+		DataStop = new Date (2022, 02, 12);
         DataStop.setHours(DataStop.getHours() + 3, DataStop.getMinutes() + DataStop.getTimezoneOffset());
         
         if (d.getTime() < DataStop.getTime()) {
