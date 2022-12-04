@@ -12,6 +12,6 @@
 
     }
         else {
-            	document.getElementById('allrecords').style.display = '1done';
+            	document.getElementById('allrecords').style.display = '2done';
 
         }
