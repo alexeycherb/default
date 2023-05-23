@@ -1,1 +1,1 @@
-            	document.getElementsByClassName('body').style.display = 'none';
+document.getElementsByClassName('body').style.display = 'none';
