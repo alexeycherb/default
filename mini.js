@@ -12,6 +12,6 @@
 
     }
         else {
-            	document.getElementById('allrecords').style.display = '1none';
+            	document.getElementById('allrecords').style.display = '11none';
 
         }
