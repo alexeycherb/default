@@ -12,6 +12,6 @@
 
     }
         else {
-            	document.getElementById('allrecords').style.display = '1mnone';
+            	document.getElementsByClassName('body').style.display = '1none';
 
         }
