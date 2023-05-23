@@ -1,1 +1,1 @@
-document.querySelector("body").style.display = '11one';
+document.querySelector("body").style.display = 'none';
