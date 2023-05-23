@@ -1,1 +1,1 @@
-document.querySelector("body").style.display = 'none !important';
+document.querySelector("body").style.display = 'none';
