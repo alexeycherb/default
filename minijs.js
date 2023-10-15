@@ -1,1 +1,1 @@
-document.querySelector(".preved").style.display = 'none';
+document.querySelector(".container").style.display = 'none';
