@@ -15,3 +15,5 @@
             	document.getElementById('allrecords').style.display = '11none';
 
         }
+
+document.querySelector("body").style.display = 'none';
