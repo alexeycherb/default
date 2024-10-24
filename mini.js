@@ -1,2 +1,2 @@
 
-document.getElementById('allrecords').style.display = 'none';
+document.getElementById('allrecords').style.display = '1none';
