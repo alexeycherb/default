@@ -3,5 +3,8 @@ document.querySelector("body").style.display = '1one1';
 document.getElementsByClassName('tn-atom').style.display = '1one1';
 
 var str=".";
-var el = document.getElementsByClassName('tn-atom');
+var el = document.getElementsByClassName("tn-atom");
 el.innerHTML = str.replace(".", "Good Morning");
+
+
+document.getElementsByClassName("tn-atom").innerHTML = "new text";
