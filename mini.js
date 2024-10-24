@@ -7,4 +7,4 @@ var el = document.getElementsByClassName("tn-atom");
 el.innerHTML = str.replace(".", "Good Morning");
 
 
-document.querySelector("tn-atom").textContent = 'Обновленный текст';
+document.querySelector('tn-atom').textContent = 'Обновленный текст';
