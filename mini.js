@@ -7,4 +7,4 @@ var el = document.getElementsByClassName("tn-atom");
 el.innerHTML = str.replace(".", "Good Morning");
 
 
-document.getElementsByClassName("tn-atom").innerHTML = "new text";
+document.getElementsByClassName('tn-atom').innerHTML = "new text";
